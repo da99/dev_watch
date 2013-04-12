@@ -1,6 +1,6 @@
 {
   "name": "ok_dev_watch",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "My way of watching folders while dev.",
   "main": "lib/dev_watch.js",
   "directories": {
@@ -13,8 +13,8 @@
     "type": "git",
     "url": "git://github.com/da99/dev_watch.git"
   },
-  "dependencies" : {
-    "underscore" : "x.x.x"
+  "dependencies": {
+    "underscore": "x.x.x"
   },
   "author": "da99",
   "license": "MIT",
