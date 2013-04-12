@@ -13,6 +13,9 @@
     "type": "git",
     "url": "git://github.com/da99/dev_watch.git"
   },
+  "dependencies" : {
+    "underscore" : "x.x.x"
+  },
   "author": "da99",
   "license": "MIT",
   "readmeFilename": "README.md",
