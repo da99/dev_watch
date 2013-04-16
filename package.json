@@ -1,6 +1,6 @@
 {
   "name": "ok_dev_watch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "My way of watching folders while dev.",
   "main": "lib/dev_watch.js",
   "directories": {
